@@ -1,0 +1,25 @@
+.components-snackbar-list__notice-container {
+	display: block !important;
+	position: fixed !important;
+	top: 5px !important;
+	right: 380px !important;
+	margin: 0;
+	padding: 0;
+	border-radius: 6px !important;
+	overflow: hidden;
+}
+
+.components-snackbar-list__notice-container  .components-snackbar{
+	background-color: #007cba;
+	transition: all 0.5s;
+	border-radius: 6px !important;
+	overflow: hidden;
+}
+
+.components-snackbar-list__notice-container  .components-snackbar:hover{
+	background-color:#004061; 
+}
+
+.components-snackbar-list__notice-container  .components-snackbar a{
+	color: #fff !important;
+}
