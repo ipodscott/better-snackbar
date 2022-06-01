@@ -1,4 +1,4 @@
-.components-snackbar-list__notice-container {
+/*.components-snackbar-list__notice-container {
 	display: block !important;
 	position: fixed !important;
 	top: 5px !important;
@@ -22,4 +22,28 @@
 
 .components-snackbar-list__notice-container  .components-snackbar a{
 	color: #fff !important;
+}*/
+
+.secret-page-link{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: fixed;
+	z-index: 9999;
+	top: 14px;
+	right: 380px;
+	background-color: #007cba;
+	border-radius: 2px;
+	width: 32px;
+	height: 32px;
+	transition: all 0.5s;
+}
+
+.secret-page-link:hover{
+	background-color: #005e8c;
+}
+
+.secret-page-link a{
+	color: #fff;
+	text-decoration: none;
 }
