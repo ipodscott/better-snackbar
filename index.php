@@ -1,9 +1,9 @@
 <?php
 
 /*
-Plugin Name: Better Snack bar
+Plugin Name: Better Snack Bar
 Plugin URI: https://scottsaunders.design
-Description: Moves the snackbar to the top right vs. the bottom left.
+Description: Moves the snack bar to the top right vs. the bottom left.
 Version: 1.0
 Author: Scott Saunders
 Author URI: https://scottsaunders.design
